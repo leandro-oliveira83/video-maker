@@ -109,3 +109,6 @@ credentials/*.json
 
 #content json file
 content.json
+
+#content field
+content/
